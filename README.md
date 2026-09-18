@@ -1,9 +1,9 @@
-River Place Test Map
+# FrankenMap Master 5
 
-Experimental mobile-friendly visitor map for Frankenmuth River Place Shops.
+Stable public version of the FrankenMap visitor map for Frankenmuth, Michigan.
 
-Features include shop markers, restrooms, River Place attractions, location tools, and directions.
+Features include location tools, destination selection, category filters, custom map icons, directions, Google Maps handoff, lodging information, and mobile-friendly controls.
 
 Built by The Three Amigos — Tom, Argon, and Echosync.
 
-This repository is used for testing and development before features are moved into the main FrankenMap project.
+This repository contains the protected stable version of FrankenMap Master 5. Experimental features are tested separately before being added here.
